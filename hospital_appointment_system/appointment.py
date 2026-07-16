@@ -1,1 +1,0 @@
-print("Hospital appointment booking system")
